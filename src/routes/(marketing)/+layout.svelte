@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { WebsiteName, primaryLink, primaryLinkText, blogLink, blogText, pricingLink, pricingText, accountLink, accountText, searchLink, searchLabel, searchLinkText, footerTitle, aboutText, net30PricingText, contactUsLink, contactUsText, sponsorLink, sponsorLinkText, sponsorName, sponsorDesc } from "../../config";
+  import { WebsiteName, primaryLink, primaryLinkText, blogLink, blogText, pricingLink, pricingText, accountLink, accountText, searchLink, searchLabel, searchLinkText, footerTitle, aboutText, net30PricingText, contactUsLink, contactUsText, sponsorLink, sponsorLinkText, sponsorName, sponsorDesc } from "./../../config";
   import "../../app.css";
 
   interface Props {
