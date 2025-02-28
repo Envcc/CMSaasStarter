@@ -1,0 +1,24 @@
+export const dynamicConfig = {
+  websiteName: "MYNET30", // Replace with actual website name
+  primaryLink: "https://mynet30.com/",
+  primaryLinkText: "Business, Credit, Simple", // Example primary link text
+  blogLink: "/blog",
+  blogText: "Business Credit Education",
+  pricingLink: "/pricing",
+  pricingText: "Pricing & Plans",
+  accountLink: "/account",
+  accountText: "Your Account",
+  searchLink: "/search",
+  searchLabel: "Search",
+  searchLinkText: "Search",
+  footerTitle: "Explore MYNET30",
+  aboutText: "About MYNET30",
+  net30PricingText: "Net30 Pricing Plans",
+  contactUsLink: "/contact_us",
+  contactUsText: "Contact Us",
+  sponsorLink: "https://preciouspairs.org",
+  sponsorLinkText: "Sponsor",
+  sponsorName: "Precious Pairs Inc 501c3",
+  sponsorDesc: "Empowering Communities Through Education",
+  sponsorLinkText: "Learn More"
+};
