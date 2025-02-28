@@ -227,7 +227,7 @@
   <meta name="description" content={WebsiteDescription} />
   <!-- eslint-disable-next-line svelte/no-at-html-tags -->
   {@html jsonldScript}
-</svelte:head>
+<svelte:head>
 <div class="hero min-h-[60vh]">
   <div class="hero-content text-center py-12">
     <div class="max-w-xl">
@@ -261,8 +261,7 @@
         <span class="link font-bold">without</span>,
         <span class="link font-bold">kissing</span>,
         <span class="link font-bold">bankers</span>,
-        <span class="link font-bold">ass</span>, and
-        <span class="link font-bold">Postgres</span>
+        <span class="link font-bold">ass</span>
       </div>
       <div class="mt-6 md:mt-2">
         <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
