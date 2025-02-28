@@ -227,7 +227,7 @@
   <meta name="description" content={WebsiteDescription} />
   <!-- eslint-disable-next-line svelte/no-at-html-tags -->
   {@html jsonldScript}
-<svelte:head>
+</svelte:head>
 <div class="hero min-h-[60vh]">
   <div class="hero-content text-center py-12">
     <div class="max-w-xl">
