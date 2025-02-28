@@ -228,14 +228,13 @@
   <!-- eslint-disable-next-line svelte/no-at-html-tags -->
   {@html jsonldScript}
 </svelte:head>
-
 <div class="hero min-h-[60vh]">
   <div class="hero-content text-center py-12">
     <div class="max-w-xl">
       <div
         class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-3 md:mb-7 pb-1"
       >
-        SaaS Starter Demo
+        MyNET30
       </div>
 
       <div
@@ -245,53 +244,29 @@
         The
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >open source</span
+          >Credit Hacks</span
         >,
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >fast</span
-        >, and
+          >Corporations</span
+        >, Wish
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >free to host</span
+          >You Didn't</span
         >
-        <span> SaaS template</span>
+        <span> Know</span>
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
-        Built with <a
-          href="https://kit.svelte.dev"
-          class="link font-bold"
-          target="_blank">SvelteKit</a
-        >,
-        <a href="https://supabase.com" class="link font-bold" target="_blank"
-          >Supabase</a
-        >,
-        <a href="https://stripe.com" class="link font-bold" target="_blank"
-          >Stripe</a
-        >,
-        <a href="https://tailwindcss.com" class="link font-bold" target="_blank"
-          >Tailwind</a
-        >,
-        <a href="https://daisyui.com" class="link font-bold" target="_blank"
-          >DaisyUI</a
-        >, and
-        <a
-          href="https://www.postgresql.org"
-          class="link font-bold"
-          target="_blank">Postgres</a
-        >
+        Build $50K+ credit lines <span class="link font-bold">SvelteKit</span>,
+        <span class="link font-bold">without</span>,
+        <span class="link font-bold">kissing</span>,
+        <span class="link font-bold">bankers</span>,
+        <span class="link font-bold">ass</span>, and
+        <span class="link font-bold">Postgres</span>
       </div>
       <div class="mt-6 md:mt-2">
-        <a href="https://github.com/CriticalMoments/CMSaasStarter">
-          <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
-        </a>
-        <a
-          href="https://github.com/CriticalMoments/CMSaasStarter/tree/main#saas-starter"
-        >
-          <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"
-            >Read the Docs</button
-          >
-        </a>
+        <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
+        <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2">Read the Docs</button>
       </div>
     </div>
   </div>
